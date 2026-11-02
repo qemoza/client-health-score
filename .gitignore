@@ -1,0 +1,12 @@
+# Your clients' messages and your keys never go in git.
+.env
+.env.*
+!.env.example
+/data/
+/out/
+*service-account*.json
+*credentials*.json
+*.pem
+*.log
+__pycache__/
+.DS_Store

@@ -1,0 +1,12 @@
+{
+  "replies_slower": {"trigger": 2, "points": 20},
+  "emails_shorter": {"trigger": -0.3, "points": 10},
+  "worried_questions": {"trigger": 2, "points": 15},
+  "calls_moved": {"trigger": 2, "points": 15},
+  "approvals_slower": {"trigger": 3, "points": 10},
+  "results_under_goal": {"trigger": 0.8, "points": 40},
+  "revision_rounds": {"trigger": 3, "points": 10},
+  "missed_deadlines": {"trigger": 1, "points": 15},
+  "green_from": 75,
+  "amber_from": 50
+}
